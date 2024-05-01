@@ -1,9 +1,9 @@
 # Flappy-bird-AI
-Milestone 2: Flappy bird clone game 
+Flappy bird clone game 
 Overview:
-In this milestone, the primary focus is on implementing the core gameplay mechanics of the Flappy Bird game, encompassing the creation of the game character, generation of pipes, handling user input for controlling the bird's flight, managing collisions with pipes, and updating the score. Additionally, this milestone also involves the integration of advanced features such as machine learning-based score prediction and the development of an automated version of Flappy Bird using artificial intelligence.
+In this project, the primary focus is on implementing the core gameplay mechanics of the Flappy Bird game, encompassing the creation of the game character, generation of pipes, handling user input for controlling the bird's flight, managing collisions with pipes, and updating the score. Additionally, this milestone also involves the integration of advanced features such as machine learning-based score prediction and the development of an automated version of Flappy Bird using artificial intelligence.
  
-Milestone 2 Documentation Summary:
+Project Documentation Summary:
 
  Implemented Gameplay Mechanics:
 1. Creating the Bird:
